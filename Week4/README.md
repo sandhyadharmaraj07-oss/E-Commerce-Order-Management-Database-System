@@ -224,6 +224,3 @@ JOIN Product p
 ORDER BY o.Order_Date DESC;
 
 
-
-
-<img width="1917" height="1020" alt="Screenshot 2026-09-21 101453 - Copy - Copy - Copy" src="https://github.com/user-attachments/assets/af784860-0488-45cd-816c-99be144a1d16" />
