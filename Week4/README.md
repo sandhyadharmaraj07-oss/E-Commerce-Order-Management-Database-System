@@ -248,11 +248,6 @@ ORDER BY o.Order_Date DESC;
 
 <img width="1917" height="1016" alt="Screenshot 2026-09-21 101952 - Copy" src="https://github.com/user-attachments/assets/ba353a9a-de84-4530-8650-5782f913a2cc" />
 
-<img width="1917" height="1016" alt="Screenshot 2026-09-21 101952" src="https://github.com/user-attachments/assets/bb0909d1-a4b3-4191-8695-63bde4eb0052" />
-
-<img width="1917" height="886" alt="Screenshot 2026-09-29 105653" src="https://github.com/user-attachments/assets/4ca313fa-9411-4fb0-92b3-68152f055f9e" />
-
-<img width="1917" height="1033" alt="Screenshot 2026-09-29 105817" src="https://github.com/user-attachments/assets/e982a012-74bb-4f03-926b-31aac65148ff" />
 
 <img width="1917" height="1020" alt="Screenshot 2026-09-21 101453" src="https://github.com/user-attachments/assets/416dde37-9ee4-42e0-98f3-99f29b2979f7" />
 
