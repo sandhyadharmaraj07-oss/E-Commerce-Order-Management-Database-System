@@ -223,4 +223,5 @@ JOIN Product p
     ON od.Product_ID = p.Product_ID
 ORDER BY o.Order_Date DESC;
 
+<img width="1637" height="980" alt="Screenshot 2026-09-02 223905" src="https://github.com/user-attachments/assets/cd80fde9-d19c-47c6-8491-c11d6cd57cd1" />
 
