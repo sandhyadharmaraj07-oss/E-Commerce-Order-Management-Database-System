@@ -230,5 +230,30 @@ ORDER BY o.Order_Date DESC;
 
 <img width="1917" height="1020" alt="Screenshot 2026-09-21 101622 - Copy - Copy" src="https://github.com/user-attachments/assets/e478959f-223e-446e-8582-06291bf5e8f0" />
 
+<img width="1917" height="1016" alt="Screenshot 2026-09-21 101648" src="https://github.com/user-attachments/assets/041e56b6-1889-4745-937f-02b50cef94b3" />
+
+<img width="1917" height="1020" alt="Screenshot 2026-09-21 101659 - Copy" src="https://github.com/user-attachments/assets/5d252a31-8802-4ba7-802f-733d4120e9ca" />
+
+<img width="1917" height="1018" alt="Screenshot 2026-09-21 101710 - Copy" src="https://github.com/user-attachments/assets/4b681fc4-6e02-4f07-8449-d73a0d86dc93" />
+
+<img width="1917" height="1017" alt="Screenshot 2026-09-21 101722 - Copy" src="https://github.com/user-attachments/assets/14cd68de-a6b6-42a5-bdbb-b11d31fb26e7" />
+
+<img width="1917" height="1015" alt="Screenshot 2026-09-21 101848 - Copy" src="https://github.com/user-attachments/assets/135f0cb8-ec95-495e-a714-c7163989c6df" />
+
+<img width="1917" height="1017" alt="Screenshot 2026-09-21 101858" src="https://github.com/user-attachments/assets/4d234eb4-245b-4802-9956-fcd7c922a775" />
+
+<img width="1917" height="1016" alt="Screenshot 2026-09-21 101913" src="https://github.com/user-attachments/assets/b652ac40-2ff6-441f-9e6b-329bedf50199" />
+
+<img width="1917" height="1015" alt="Screenshot 2026-09-21 101924 - Copy" src="https://github.com/user-attachments/assets/a39e1348-1507-4dcb-a1d3-9a9419e4adc6" />
+
+<img width="1917" height="1016" alt="Screenshot 2026-09-21 101952 - Copy" src="https://github.com/user-attachments/assets/ba353a9a-de84-4530-8650-5782f913a2cc" />
+
+<img width="1917" height="1016" alt="Screenshot 2026-09-21 101952" src="https://github.com/user-attachments/assets/bb0909d1-a4b3-4191-8695-63bde4eb0052" />
+
+<img width="1917" height="886" alt="Screenshot 2026-09-29 105653" src="https://github.com/user-attachments/assets/4ca313fa-9411-4fb0-92b3-68152f055f9e" />
+
+<img width="1917" height="1033" alt="Screenshot 2026-09-29 105817" src="https://github.com/user-attachments/assets/e982a012-74bb-4f03-926b-31aac65148ff" />
+
+<img width="1917" height="1020" alt="Screenshot 2026-09-21 101453" src="https://github.com/user-attachments/assets/416dde37-9ee4-42e0-98f3-99f29b2979f7" />
 
 
